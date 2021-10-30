@@ -16,10 +16,7 @@ function calc() {
 
 }
 
-
 const calcResult = document.querySelector('.calculator__result')
-
-
 
 const calcBtn = document.querySelector('.calculator__btn')
 calcBtn.addEventListener('click', e => {
